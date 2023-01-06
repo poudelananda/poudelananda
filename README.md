@@ -1,13 +1,4 @@
 Hello, I am Ananda Poudel.
-I am a Data Scientist and I love combining Data Analytics with soccer. I work mainly with R and Rshiny but also have knowledge in Python as well. 
+I am a Data Scientist and a sports analyst enthusiast. I work mainly with R and Rshiny but also have knowledge in Python as well. 
 
-Some of the stuff that I am currently working with on my dashboard include the following:
-* Data Visualization
-* Regression
-* Bayesian Modeling
-* Statistical Testing
-
-Link to my dashboard: [Premier League](https://poudelap.shinyapps.io/PlDashboard/ "Premier League Dashboard")
-
-I am also trying to utilize NLP for users to visualize specific graphics easily in the dashboard.
-One of the projects that I have worked on regarding NLP is topic modeling by using Latent Dirichlet Allocation which can be found [here](https://github.com/poudelananda/Topic-Modeling-NLP)
+Link to my recent project: [Premier League](https://poudelap.shinyapps.io/PlDashboard/ "Premier League Dashboard")
